@@ -1,0 +1,8 @@
+com\ejbserver\DateManager.class
+com\ejbserver\UserServiceBean.class
+com\ejbserver\cdserver\model\CD.class
+com\ejbserver\AdminServiceBean.class
+com\ejbserver\UserService.class
+com\ejbserver\DateManagerImpl.class
+com\ejbserver\cdserver\model\User.class
+com\ejbserver\AdminService.class
